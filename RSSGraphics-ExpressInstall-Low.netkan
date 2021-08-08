@@ -1,0 +1,18 @@
+spec_version: v1.18
+identifier: RSSGraphics-ExpressInstall-Low
+name: RSS Graphics Express Install - Low
+abstract: Express Installation for RSS Graphics
+license: CC-BY-NC-SA-4.0
+author: KSP-RO Group
+$kref: '#/ckan/github/KSP-RO/RSSGraphics-ExpressInstall/asset_match/Low'
+x_netkan_force_v: true
+resources:
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*
+  repository: https://github.com/KSP-RO/RSSGraphics-ExpressInstall
+depends:
+  - name: RealSolarSystem
+  - name: RSSTextures4096
+provides:
+  - name: RSSGraphics-ExpressInstall
+conflicts:
+  - name: RSSGraphics-ExpressInstall

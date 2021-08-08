@@ -1,0 +1,21 @@
+spec_version: v1.18
+identifier: RSSGraphics-ExpressInstall-Medium
+name: RSS Graphics Express Install - Medium
+abstract: Express Installation for RSS Graphics, Medium version
+license: CC-BY-NC-SA-4.0
+author: KSP-RO Group
+$kref: '#/ckan/github/KSP-RO/RSSGraphics-ExpressInstall/asset_match/Medium'
+x_netkan_force_v: true
+resources:
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*
+  repository: https://github.com/KSP-RO/RSSGraphics-ExpressInstall
+depends:
+  - name: RealSolarSystem
+  - name: RSSTextures8192
+  - name: RSSVE-LR
+  - name: DistantObject
+  - name: PlanetShine
+provides:
+  - name: RSSGraphics-ExpressInstall
+conflicts:
+  - name: RSSGraphics-ExpressInstall
