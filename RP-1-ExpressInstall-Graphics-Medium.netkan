@@ -1,14 +1,14 @@
 spec_version: v1.12
-identifier: RSSGraphics-ExpressInstall-Medium
+identifier: RP-1-ExpressInstall-Graphics-Medium
 name: RSS Graphics Medium Res Express Install
 abstract: Express Installation for RSS Graphics - Medium Res version
 license: CC-BY-NC-SA-4.0
 author: KSP-RO Group
-$kref: '#/ckan/github/KSP-RO/RSSGraphics-ExpressInstall/asset_match/Medium'
+$kref: '#/ckan/github/KSP-RO/RP-1-ExpressInstall-Graphics/asset_match/Medium'
 x_netkan_force_v: true
 resources:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*
-  repository: https://github.com/KSP-RO/RSSGraphics-ExpressInstall
+  repository: https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics
 depends:
   - name: ModuleManager
   - name: KSPBurst
@@ -42,9 +42,9 @@ depends:
   - name: DistantObject
   - name: PlanetShine
 provides:
-  - RSSGraphics-ExpressInstall
+  - RP-1-ExpressInstall-Graphics
 conflicts:
-  - name: RSSGraphics-ExpressInstall
+  - name: RP-1-ExpressInstall-Graphics
 install:
-  - find: RSSGraphics-ExpressInstall
+  - find: RP-1-ExpressInstall-Graphics
     install_to: GameData
