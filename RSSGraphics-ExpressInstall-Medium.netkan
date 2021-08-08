@@ -19,3 +19,6 @@ provides:
   - RSSGraphics-ExpressInstall
 conflicts:
   - name: RSSGraphics-ExpressInstall
+install:
+  - find: RSSGraphics-ExpressInstall
+    install_to: GameData
