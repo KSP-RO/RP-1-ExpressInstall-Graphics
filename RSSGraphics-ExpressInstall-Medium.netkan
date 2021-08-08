@@ -16,6 +16,6 @@ depends:
   - name: DistantObject
   - name: PlanetShine
 provides:
-  - name: RSSGraphics-ExpressInstall
+  - RSSGraphics-ExpressInstall
 conflicts:
   - name: RSSGraphics-ExpressInstall

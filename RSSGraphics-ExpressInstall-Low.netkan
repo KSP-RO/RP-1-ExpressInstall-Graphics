@@ -13,6 +13,6 @@ depends:
   - name: RealSolarSystem
   - name: RSSTextures4096
 provides:
-  - name: RSSGraphics-ExpressInstall
+  - RSSGraphics-ExpressInstall
 conflicts:
   - name: RSSGraphics-ExpressInstall

@@ -17,6 +17,6 @@ depends:
   - name: PlanetShine
   - name: CanaveralPads
 provides:
-  - name: RSSGraphics-ExpressInstall
+  - RSSGraphics-ExpressInstall
 conflicts:
   - name: RSSGraphics-ExpressInstall
