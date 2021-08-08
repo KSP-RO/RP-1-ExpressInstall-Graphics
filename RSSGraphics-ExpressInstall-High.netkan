@@ -10,6 +10,7 @@ resources:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*
   repository: https://github.com/KSP-RO/RSSGraphics-ExpressInstall
 depends:
+  - name: ModuleManager
   - name: RealSolarSystem
   - name: RSSTextures16K
   - name: RSSVE-HR
