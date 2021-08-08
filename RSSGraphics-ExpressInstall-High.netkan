@@ -12,7 +12,7 @@ resources:
 depends:
   - name: RealSolarSystem
   - name: RSSTextures8192
-  - name: RSSVE-LR
+  - name: RSSVE-HR
   - name: DistantObject
   - name: PlanetShine
   - name: CanaveralPads
