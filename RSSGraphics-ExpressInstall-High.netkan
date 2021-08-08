@@ -11,7 +11,7 @@ resources:
   repository: https://github.com/KSP-RO/RSSGraphics-ExpressInstall
 depends:
   - name: RealSolarSystem
-  - name: RSSTextures8192
+  - name: RSSTextures16K
   - name: RSSVE-HR
   - name: DistantObject
   - name: PlanetShine
