@@ -11,17 +11,9 @@ resources:
   repository: https://github.com/KSP-RO/RSSGraphics-ExpressInstall
 depends:
   - name: ModuleManager
+  - name: KSPBurst
+  - name: RSSTextures16K
   - name: RP-0
-  - name: RealismOverhaul
-  - name: SXTContinued
-  - name: ContractConfigurator
-  - name: CustomBarnKit
-  - name: VenStockRevamp-NewParts
-  - name: RealSolarSystem
-  - name: MagiCore
-  - name: ClickThroughBlocker
-  - name: ToolbarController
-  - name: Kerbalism-Config-RO
   - name: RSSDateTimeFormatter
   - name: ReStock
   - name: ReStockPlus
@@ -38,7 +30,6 @@ depends:
   - name: ProceduralParts
   - name: RCSBuildAid
   - name: RealAntennas
-  - name: KSPBurst
   - name: TestFlight
   - name: TextureReplacer
   - name: ShipManifest
@@ -46,7 +37,6 @@ depends:
   - name: Waterfall
   - name: HangerExtenderExtended
   - name: ModularLaunchPads
-  - name: RSSTextures16K
   - name: RealSolarSystem
   - name: RSSVE-HR
   - name: DistantObject
