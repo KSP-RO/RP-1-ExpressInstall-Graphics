@@ -1,7 +1,7 @@
-spec_version: v1.18
+spec_version: v1.12
 identifier: RSSGraphics-ExpressInstall-Medium
-name: RSS Graphics Express Install - Medium
-abstract: Express Installation for RSS Graphics, Medium version
+name: RSS Graphics Medium Res Express Install
+abstract: Express Installation for RSS Graphics - Medium Res version
 license: CC-BY-NC-SA-4.0
 author: KSP-RO Group
 $kref: '#/ckan/github/KSP-RO/RSSGraphics-ExpressInstall/asset_match/Medium'
