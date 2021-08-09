@@ -12,7 +12,7 @@ resources:
 depends:
   
   - name: ModuleManager
-  - name: KSPBurst
+  - name: KSPBurst-Full
   - name: RSSTextures4096
   - name: RP-0
   - name: RSSDateTimeFormatter
