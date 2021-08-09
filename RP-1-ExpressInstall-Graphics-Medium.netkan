@@ -11,7 +11,8 @@ resources:
   repository: https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics
 depends:
   - name: ModuleManager
-  - name: KSPBurst
+  - name: KSPBurst-Full
+  - name: Scatterer-sunflare-default
   - name: RSSTextures8192
   - name: RP-0
   - name: RSSDateTimeFormatter
