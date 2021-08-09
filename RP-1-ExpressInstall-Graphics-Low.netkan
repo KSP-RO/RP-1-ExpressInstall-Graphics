@@ -5,6 +5,7 @@ abstract: Express Installation for RP-1 Graphics - Low Res version
 license: CC-BY-NC-SA-4.0
 author: KSP-RO Group
 $kref: '#/ckan/github/KSP-RO/RP-1-ExpressInstall-Graphics/asset_match/Low'
+$vref: '#/ckan/ksp-avc'
 x_netkan_force_v: true
 resources:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*
@@ -17,6 +18,7 @@ depends:
   - name: ReStock
   - name: ReStockPlus
   - name: RealAntennas
+  - name: TestFlight
   - name: RP-0
   - name: RSSDateTimeFormatter
   - name: ROEngines
@@ -31,7 +33,6 @@ depends:
   - name: ProceduralFairings
   - name: ProceduralParts
   - name: RCSBuildAid
-  - name: TestFlight
   - name: TextureReplacer
   - name: ShipManifest
   - name: MechJeb2
