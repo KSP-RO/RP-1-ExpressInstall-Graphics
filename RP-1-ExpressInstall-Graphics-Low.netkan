@@ -1,7 +1,7 @@
 spec_version: v1.12
 identifier: RP-1-ExpressInstall-Graphics-Low
-name: RSS Graphics Low Res Express Install
-abstract: Express Installation for RSS Graphics - Low Res version
+name: RP-1 Graphics Low Res Express Install
+abstract: Express Installation for RP-1 Graphics - Low Res version
 license: CC-BY-NC-SA-4.0
 author: KSP-RO Group
 $kref: '#/ckan/github/KSP-RO/RP-1-ExpressInstall-Graphics/asset_match/Low'
