@@ -14,10 +14,11 @@ depends:
   - name: ModuleManager
   - name: KSPBurst-Full
   - name: RSSTextures4096
-  - name: RP-0
-  - name: RSSDateTimeFormatter
   - name: ReStock
   - name: ReStockPlus
+  - name: RealAntennas
+  - name: RP-0
+  - name: RSSDateTimeFormatter
   - name: ROEngines
   - name: ROTanks
   - name: ROCapsules
@@ -30,7 +31,6 @@ depends:
   - name: ProceduralFairings
   - name: ProceduralParts
   - name: RCSBuildAid
-  - name: RealAntennas
   - name: TestFlight
   - name: TextureReplacer
   - name: ShipManifest
