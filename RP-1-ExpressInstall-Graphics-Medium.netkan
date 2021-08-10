@@ -17,9 +17,6 @@ depends:
   - name: RSSTextures8192
   - name: ReStock
   - name: ReStockPlus
-  - name: RealAntennas
-  - name: TestFlight
-  - name: RSSVE-LR
   - name: RP-0
   - name: RSSDateTimeFormatter
   - name: ROEngines
@@ -34,6 +31,8 @@ depends:
   - name: ProceduralFairings
   - name: ProceduralParts
   - name: RCSBuildAid
+  - name: RealAntennas
+  - name: TestFlight
   - name: TextureReplacer
   - name: ShipManifest
   - name: MechJeb2
@@ -41,6 +40,7 @@ depends:
   - name: HangerExtenderExtended
   - name: ModularLaunchPads
   - name: RealSolarSystem
+  - name: RSSVE-LR
   - name: DistantObject
   - name: PlanetShine
 provides:
