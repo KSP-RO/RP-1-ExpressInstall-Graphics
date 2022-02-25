@@ -14,11 +14,11 @@ depends:
   - name: ModuleManager
   - name: KSPBurst-Full
   - name: Scatterer-sunflare-default
-	version: 3:v0.0772
+    version: 3:v0.0772
   - name: Scatterer-config
-	version: 3:v0.0772
+    version: 3:v0.0772
   - name: Scatterer
-	version: 3:v0.0772
+    version: 3:v0.0772
   - name: RSSTextures8192
   - name: ReStock
   - name: ReStockPlus
@@ -48,7 +48,7 @@ depends:
   - name: RSSVE-LR
   - name: DistantObject
   - name: PlanetShine
-	version: 0.2.6.3
+    version: 0.2.6.3
 provides:
   - RP-1-ExpressInstall-Graphics
 conflicts:
