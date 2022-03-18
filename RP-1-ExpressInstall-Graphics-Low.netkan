@@ -13,6 +13,7 @@ resources:
 depends:
   
   - name: ModuleManager
+  - name: KSPCommunityFixes
   - name: KSPBurst-Full
   - name: RSSTextures4096
   - name: ReStock

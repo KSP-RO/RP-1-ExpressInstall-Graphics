@@ -12,8 +12,9 @@ resources:
   repository: https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics
 depends:
   - name: ModuleManager
+  - name: KSPCommunityFixes
   - name: KSPBurst-Full
-  - name: Scatterer-sunflare-default
+  - name: Scatterer-sunflare
     version: 3:v0.0772
   - name: Scatterer-config
     version: 3:v0.0772
