@@ -49,7 +49,6 @@ depends:
   - name: RSSVE-HR
   - name: DistantObject
   - name: PlanetShine
-    version: 0.2.6.3
   - name: CanaveralPads
 provides:
   - RP-1-ExpressInstall-Graphics
