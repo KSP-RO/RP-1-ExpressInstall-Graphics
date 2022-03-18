@@ -14,7 +14,7 @@ depends:
   - name: ModuleManager
   - name: KSPCommunityFixes
   - name: KSPBurst-Full
-  - name: Scatterer-sunflare
+  - name: Scatterer-sunflare-default
     version: 3:v0.0772
   - name: Scatterer-config
     version: 3:v0.0772
