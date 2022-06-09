@@ -49,6 +49,7 @@ depends:
   - name: RSSVE-LR
   - name: DistantObject
   - name: PlanetShine
+  - name: ConformalDecals
 provides:
   - RP-1-ExpressInstall-Graphics
 conflicts:

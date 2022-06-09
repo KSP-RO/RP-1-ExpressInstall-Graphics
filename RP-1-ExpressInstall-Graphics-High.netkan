@@ -52,6 +52,7 @@ depends:
   - name: DistantObject
   - name: PlanetShine
   - name: CanaveralPads
+  - name: ConformalDecals
 provides:
   - RP-1-ExpressInstall-Graphics
 conflicts:
