@@ -42,6 +42,7 @@ depends:
   - name: ModularLaunchPads
   - name: RealSolarSystem
   - name: ConformalDecals
+  - name: Shabby
 provides:
   - RP-1-ExpressInstall-Graphics
 conflicts:
