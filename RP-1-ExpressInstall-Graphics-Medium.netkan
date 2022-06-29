@@ -49,6 +49,8 @@ depends:
   - name: RSSVE-LR
   - name: DistantObject
   - name: PlanetShine
+  - name: ConformalDecals
+  - name: Shabby
 provides:
   - RP-1-ExpressInstall-Graphics
 conflicts:
