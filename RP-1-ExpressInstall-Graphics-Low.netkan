@@ -21,6 +21,7 @@ depends:
   - name: RP-0
   - name: RSSDateTimeFormatter
   - name: ROEngines
+  - name: ROHeatshields
   - name: ROTanks
   - name: ROCapsules
   - name: ROSolar
