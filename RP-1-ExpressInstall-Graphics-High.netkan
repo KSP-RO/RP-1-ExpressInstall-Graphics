@@ -16,9 +16,7 @@ depends:
   - name: KSPCommunityFixes
   - name: KSPBurst-Full
   - name: Parallax-StockTextures
-    version: 1.3.1
   - name: Parallax
-    version: 1.3.1
   - name: Scatterer-sunflare-default
   - name: Scatterer-config
   - name: Scatterer
