@@ -23,7 +23,10 @@ depends:
   - name: RSSTextures16K
   - name: ReStock
   - name: ReStockPlus
-  - name: RP-0
+  - any_of:
+	- name: RP-1
+	- name: RP-0
+	choice_help_text: Choose either the current version of RP-1 or the legacy version for continuing old saves
   - name: RSSDateTimeFormatter
   - name: ROEngines
   - name: ROHeatshields
