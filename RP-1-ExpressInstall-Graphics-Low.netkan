@@ -39,7 +39,6 @@ depends:
   - name: RealAntennas
   - name: TestFlight
   - name: TextureReplacer
-  - name: ShipManifest
   - name: MechJeb2
   - name: Waterfall
   - name: HangerExtenderExtended
