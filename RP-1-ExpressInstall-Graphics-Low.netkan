@@ -11,8 +11,9 @@ resources:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*
   repository: https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics
 depends:
-  - name: RP-1-ExpressInstall
+  - name: ModuleManager
   - name: RSSTextures4096
+  - name: RP-1-ExpressInstall
 provides:
   - RP-1-ExpressInstall-Graphics
 conflicts:

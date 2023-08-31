@@ -11,7 +11,7 @@ resources:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*
   repository: https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics
 depends:
-  - name: RP-1-ExpressInstall
+  - name: ModuleManager
   - name: Scatterer-sunflare-default
   - name: Scatterer-config
   - name: Scatterer
@@ -19,10 +19,13 @@ depends:
   - name: RSSVE-LR
   - name: DistantObject
   - name: PlanetShine
+  - name: RP-1-ExpressInstall
 provides:
   - RP-1-ExpressInstall-Graphics
 conflicts:
   - name: RP-1-ExpressInstall-Graphics
+  - name: Ecumenopolis
+  - name: DistantObject-RealSolarSystem
 install:
   - find: RP-1-ExpressInstall-Graphics
     install_to: GameData
