@@ -13,12 +13,19 @@ resources:
 depends:
   - name: ModuleManager
   - name: Scatterer-sunflare-default
+    suppress_recommendations: true
   - name: Scatterer-config
+    suppress_recommendations: true
   - name: Scatterer
+    suppress_recommendations: true
   - name: RSSTextures8192
+    suppress_recommendations: true
   - name: RSSVE-LR
+    suppress_recommendations: true
   - name: DistantObject
+    suppress_recommendations: true
   - name: PlanetShine
+    suppress_recommendations: true
   - name: RP-1-ExpressInstall
 provides:
   - RP-1-ExpressInstall-Graphics

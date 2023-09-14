@@ -13,15 +13,25 @@ resources:
 depends:
   - name: ModuleManager
   - name: Parallax-StockTextures
+    suppress_recommendations: true
   - name: Parallax
+    suppress_recommendations: true
   - name: Scatterer-sunflare-default
+    suppress_recommendations: true
   - name: Scatterer-config
+    suppress_recommendations: true
   - name: Scatterer
+    suppress_recommendations: true
   - name: RSSTextures16K
+    suppress_recommendations: true
   - name: RSSVE-HR
+    suppress_recommendations: true
   - name: DistantObject
+    suppress_recommendations: true
   - name: PlanetShine
+    suppress_recommendations: true
   - name: CanaveralPads
+    suppress_recommendations: true
   - name: RP-1-ExpressInstall
 provides:
   - RP-1-ExpressInstall-Graphics
